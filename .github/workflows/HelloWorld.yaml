@@ -6,4 +6,6 @@ jobs:
      steps:
        - name: my-step
          run: echo "Hello World"
-         echo "Sai Babu"
+       - name: my-name
+         run: echo "Sai Babu"
+        
